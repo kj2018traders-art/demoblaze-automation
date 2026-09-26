@@ -177,10 +177,10 @@ Logout
 | Testing Area         | Count |
 | -------------------- | ----: |
 | Total Test Cases     |   275 |
-| Automated Test Cases |   134 |
-| Manual Test Cases    |   141 |
+| Automated Test Cases |   177 |
+| Manual Test Cases    |   275 |
 
-The **275 test cases represent the overall project testing coverage**, while **134 test cases represent the Selenium automation suite**.
+The **275 test cases represent the overall project testing coverage**, while **177 test cases represent the Selenium automation suite**.
 
 ---
 
@@ -241,7 +241,7 @@ The repository contains:
 
 * Manual and Automation Testing performed on a demo e-commerce application.
 * **275 overall test cases** designed.
-* **134 test cases automated** using Selenium WebDriver.
+* **177 test cases automated** using Selenium WebDriver.
 * Functional, positive/negative, UI, exploratory and end-to-end testing performed.
 * Reusable automation framework implemented using **Page Object Model**.
 * TestNG used for automation test execution.
